@@ -18,6 +18,8 @@ local servers in a network, can also have a enterprise DC, so companies across d
 
 cloud DC benefits with scaling if it is run by a third party
 
+While standard cloud computing may involve public cloud resources or private cloud resources, enterprise cloud computing is characterized by the use of both public and private clouds as well as distributed cloud infrastructure
+
 | Enterprise computing | Cloud computing |
 | --- | --- |
 | - Use of IT within organization to support  <br>business processes and goals  <br>– Organization owns/maintains IT-infra-  <br>structure  <br>– Time-consuming to scale up/down  <br>– Significant CAPEX up-front and OPEX  <br>– Control over sensitive data | Delivering on-demand computing  <br>services over the internet  <br>– External provider owns/maintains IT-  <br>infrastructure  <br>– Fast to scale up/down based on  <br>current demand  <br>– Pay-as-you-go model  (you only pays for what you use, compared to if you run your own servers. Then you have to pay for the hole server)<br>– May be difficult to know where  <br>sensitive data is stored/processed |

@@ -1,0 +1,1 @@
+jitter: variance in delay

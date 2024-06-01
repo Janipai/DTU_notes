@@ -15,7 +15,7 @@ Pod node
 butterfly networks
 benes, banyan and flattened butterfly network
 
-### Traffic distrubution
+### Traffic distribution
 data center to data center (getting data from somewhere else)
 data center to user (getting data from google etc)
 within data center (data processing and data calculation intern)
@@ -53,4 +53,16 @@ the fat tree, the flatterned butterfly, dragon fly, DCell are the most popular a
 
 Ethernet
 - it's cheap
-- 
+
+### Notes from homework
+**multi-tenant data center requirements**
+The goal of a multi-tenant public cloud data center is to make the customer experi-
+ence much the same as if they were using their own private data center.
+An additional goal of the cloud service provider is to have a flexible allocation of resources so they can quickly adapt to changing needs in order to reduce both capital expense and operating expense.
+
+media access control (MAC)
+
+The point in the network where frame encapsulation and de-encapsulation occurs
+is known as the VXLAN Tunnel End Point (VTEP).
+**tunneling techniques**
+
