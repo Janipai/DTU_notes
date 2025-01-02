@@ -1,0 +1,4 @@
+Producing
+Remaining
+Missing
+Consuming

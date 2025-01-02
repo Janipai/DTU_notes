@@ -30,3 +30,5 @@ OH2.2
 
 OH2.3
 !∃ follows_02263(Person) : bool • 
+
+![[Pasted image 20241010004734.png]]
