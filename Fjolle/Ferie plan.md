@@ -1,9 +1,3 @@
-Ros
-Amal
-Helena
-Alen
-David
-Mig
 - Tog billet
 - Ørken
 - Moske

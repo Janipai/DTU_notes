@@ -49,8 +49,6 @@ Hi
 I have ordered two BritRail Europe Consecutive Pass, Youth, 8 days,
 2nd class tickets. But it seems like it is sent to my adr in Denmark and Im travelling to England tomorrow morning. Isn't there a digital ticket?
 
-my orderid is: 521598
-
 hope you can help me
 
 

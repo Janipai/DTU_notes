@@ -1,4 +1,4 @@
-Sæsonskifte
+### Sæsonskifte
 
 
 Forretter: livet cyclus (livets begyndelse, ungdommen, den modne alder og livets afslutning)
@@ -44,6 +44,12 @@ guacamole, appelsin, granatæble
 blinis
 
 
-Emoji:
+### Emoji:
 cheese cake som emoji
 romkugler med gul fondang rundt om?
+
+### drømme
+sukkerkuppel med lille skov under
+rødbedesuppe
+
+blomkålspure eller citronskum
